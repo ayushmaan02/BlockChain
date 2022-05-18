@@ -1,6 +1,6 @@
 # BLOCKCHAIN DEVELOPERS
 
-1. Applicatiion Developers
+**1. Applicatiion Developers**
 
         Application developers are more than 90% in this field, 
         the developers who are using the  existing blockchain for creating something new out of it.
@@ -10,7 +10,7 @@
         - Javascript
         - Python
 
-2. Core developers
+**2. Core developers**
 
         Core developers are those who either build their own Blockchain or update the existing chains using this languages.
 
@@ -33,14 +33,13 @@
 
 - Solidity is used to write **smart contracts** on the Ethereum Blockchain
 
-
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <p align = "center">
     <img src = "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" width = "800">
 </p>
 
-- JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. 
+- JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
 
