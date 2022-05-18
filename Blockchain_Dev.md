@@ -46,3 +46,43 @@
 - While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
 
 - JavaScript can be used in both frontend and Backend.
+
+----
+
+## Tools and Technology
+
+**1. JavaScript**
+
+<p align = "center">
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7sE_80Nk6ZoLDzEhpTkrp2CGHNcd0Zzkmw&usqp=CAU" width = "200" height = "200">
+</p>
+
+
+- [Reac.js](https://reactjs.org/docs/getting-started.html) (Frontend)
+- [Node.js](https://nodejs.org/en/docs/) (Backend)
+- [Express.js](https://expressjs.com/en/starter/installing.html) (Backend)
+- [Web3.js](https://web3js.readthedocs.io/en/v1.7.3/) (Intraction)
+
+**2. Truffle**
+
+<p>
+    <img src = "https://trufflesuite.com/img/truffle-logo-dark.svg" width = "800" height = "230">
+</p>
+
+   [Truffle](https://trufflesuite.com/docs/truffle/) is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
+**3. Ganache**
+
+<p>
+    <img src = "https://trufflesuite.com/img/ganache-logo-dark.svg" width = "800" height = "230">
+</p>
+
+  [Ganache](https://trufflesuite.com/docs/ganache/) is a personal blockchain for rapid Ethereum and Corda distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.
+
+**4. Metamask**
+
+<p>
+    <img src = "https://docs.metamask.io/metamask-fox.svg" width = "750" height = "230">
+</p>
+
+  [Metamask](https://docs.metamask.io/guide/)  is the trailblazing tool enabling user interactions and experience on Web3. It is currently available as a browser extension and as a mobile app on both Android and iOS devices.  
