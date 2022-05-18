@@ -26,7 +26,8 @@ Why blockchain is important: Business runs on information. The faster it’s rec
 
 1. Applicatiion Developers
 
-        Application developers are more than 90% in this field, the developers who are using the  existing blockchain for creating something new out of it.
+        Application developers are more than 90% in this field, 
+        the developers who are using the  existing blockchain for creating something new out of it.
 
         Language needed to learn are: 
         - Solidity
