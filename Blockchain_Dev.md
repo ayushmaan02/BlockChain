@@ -23,7 +23,9 @@
 
 ## [Solidity](https://docs.soliditylang.org/en/v0.8.14/)
 
-![SolidityImg](https://docs.soliditylang.org/en/v0.8.14/_static/logo.svg)
+<p align = "center">
+    <img src = "https://101blockchains.com/wp-content/uploads/2021/05/solidity-logo.png">
+</p>
 
 - Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 
