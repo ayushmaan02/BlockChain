@@ -65,7 +65,7 @@
 
 **2. Truffle**
 
-<p>
+<p align = "center">
     <img src = "https://trufflesuite.com/img/truffle-logo-dark.svg" width = "800" height = "230">
 </p>
 
@@ -73,7 +73,7 @@
 
 **3. Ganache**
 
-<p>
+<p align = "center">
     <img src = "https://trufflesuite.com/img/ganache-logo-dark.svg" width = "800" height = "230">
 </p>
 
@@ -81,7 +81,7 @@
 
 **4. Metamask**
 
-<p>
+<p align = "center">
     <img src = "https://docs.metamask.io/metamask-fox.svg" width = "750" height = "230">
 </p>
 
