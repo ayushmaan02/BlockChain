@@ -33,6 +33,8 @@
 
 - Solidity is used to write **smart contracts** on the Ethereum Blockchain
 
+----
+
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <p align = "center">
