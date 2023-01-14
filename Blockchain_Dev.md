@@ -18,7 +18,7 @@
         - Go Lang
         - C++
         - Rust
-  `There may be more these are the most used ones 👀`
+  `There may be more but these are the most used ones 👀`
 
 ----
 
