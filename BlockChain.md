@@ -1,6 +1,6 @@
 # BLOCKCHAIN
 
-![Img](https://www.visiott.com/wp-content/uploads/2021/03/BlockChain_System.jpg)
+![Img](https://user-images.githubusercontent.com/66905426/212459946-1dbdc894-7e1f-4f61-8806-75a7801c5258.jpg)
 
 ## ABOUT BLOCKCHAIN
 
